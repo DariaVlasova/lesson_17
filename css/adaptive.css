@@ -166,6 +166,7 @@
              }
              .body-main__action {
                 justify-content: center;
+		     gap:10px;
              }
             .who-we-are__container {
                 gap: 80px;
@@ -234,6 +235,7 @@
         .body-main__action{
             flex-direction: column;
             width: 100%;;
+		gap:10px;
         }
         .advantages-main {
             display: flex;
